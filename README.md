@@ -1,1 +1,1 @@
-# Random_Number_Game
+Free to use.
